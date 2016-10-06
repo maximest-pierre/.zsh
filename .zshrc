@@ -49,7 +49,7 @@ ZSH_THEME="robbyrussell"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git osx ruby python pylint pep8 cabal sudo tmux web-search brew cabal)
+plugins=(git osx ruby python pylint pep8 cabal sudo tmux web-search brew)
 
 # User configuration
 
